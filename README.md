@@ -1,5 +1,5 @@
 # spring-boot
-Experimenting with spring boot
+Experimenting with [Spring Boot](http://projects.spring.io/spring-boot/)
 
 Requires
 * jdk 1.7
