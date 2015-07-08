@@ -1,6 +1,10 @@
 # spring-boot
 Experimenting with spring boot
 
+Requires
+* jdk 1.7
+* gradle 2.3+
+
 ### build
 ```shell
 gradle build
