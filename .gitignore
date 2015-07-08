@@ -6,3 +6,32 @@ gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+
+.sass-cache/
+.DS_Store
+bin
+gradle
+conf
+explodedWebAppDir
+.project
+.classpath
+.settings
+.gitmodules
+/out
+/node_modules
+/optimizedJS
+/tmpExploded
+/coverage
+.idea
+*.iml
+*.ipr
+*.iws
+/logs
+
+gradlew
+gradlew.bat
+
+src/main/webapp/templates/compiled/
+src/main/webapp/css/
+
+/.buildpath
